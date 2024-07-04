@@ -95,7 +95,7 @@ class KeepSafeSobre:
         self.dadostexto = ctk.CTkLabel(self.fundo, text="Dados referentes a junho de 2024.",
                                    text_color="#FFFFFF",
                                    bg_color="#1E1E1E", font=(ks_fonte, 24))
-        self.dadostexto.place(x=601, y=703)
+        self.dadostexto.place(x=601, y=697)
 
         # Buttons
 
